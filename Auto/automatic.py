@@ -36,9 +36,3 @@ print('Formulário preenchido e enviado com sucesso!')
 
 
 
-
-
-
-
-
-
