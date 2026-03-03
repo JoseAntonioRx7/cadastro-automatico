@@ -1,3 +1,0 @@
-import pyautogui
-import time
-
