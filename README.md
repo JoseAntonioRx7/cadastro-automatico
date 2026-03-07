@@ -4,13 +4,18 @@ Este README destaca sua habilidade com Python para produtividade e automação, 
 ```markdown
 ### 🎯 O Problema que Resolve
 
-Desenvolvido para eliminar o trabalho manual e repetitivo na comunicação com clientes/usuários. O script lê bases de dados externas e automatiza os envios economizando horas de trabalho manual, provando que ferramentas simples bem aplicadas geram alto valor.
+Desenvolvido para eliminar o trabalho manual e repetitivo na comunicação com clientes/usuários.
+O script lê bases de dados externas e automatiza os envios economizando horas de trabalho manual,
+provando que ferramentas simples bem aplicadas geram alto valor.
 
 ### 🚀 Funcionalidades
 
 - **Leitura de Dados:** Integração e manipulação de planilhas (Excel/Google Sheets) utilizando `pandas` e `openpyxl`.
+
 - **Disparo Dinâmico:** Envio automático de e-mails customizados via `smtplib`.
+
 - **Segurança:** Suporte a *whitelists* para garantir que e-mails não sejam enviados para destinos indesejados.
+
 - **Customização:** Lógica flexível para formatação do corpo das mensagens e inclusão de anexos.
 
 ### ⚙️ Como Instalar e Usar
