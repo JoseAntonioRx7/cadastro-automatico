@@ -2,19 +2,6 @@
 Este README destaca sua habilidade com Python para produtividade e automação, valorizando seu pragmatismo.
 
 ```markdown
-<h1 align="center">🤖 Bot de Automação de E-mails e Planilhas</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-
-<p align="center">
-  Um bot eficiente em Python desenvolvido para automatizar processos repetitivos, manipulando dados de planilhas e realizando o disparo em massa de e-mails personalizados e seguros.
-</p>
-
-<br>
-
 ### 🎯 O Problema que Resolve
 
 Desenvolvido para eliminar o trabalho manual e repetitivo na comunicação com clientes/usuários. O script lê bases de dados externas e automatiza os envios economizando horas de trabalho manual, provando que ferramentas simples bem aplicadas geram alto valor.
