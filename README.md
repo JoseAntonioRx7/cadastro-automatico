@@ -1,4 +1,3 @@
-```markdown
 ### 🎯 O Problema que Resolve
 
 Desenvolvido para eliminar o trabalho manual e repetitivo na comunicação com clientes/usuários.
