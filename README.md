@@ -1,6 +1,3 @@
-### 3. Repositório: `cadastro-automatico`
-Este README destaca sua habilidade com Python para produtividade e automação, valorizando seu pragmatismo.
-
 ```markdown
 ### 🎯 O Problema que Resolve
 
